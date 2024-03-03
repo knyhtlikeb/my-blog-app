@@ -11,7 +11,7 @@ const CalloutSection = () => {
         <NewsletterSubscribe />
       </div>
       <div className='col-span-4 rounded-full border-2 w-[100px] h-[100px] md:w-[300px] md:h-[300px] relative self-center'>
-        {/* <Image src="/avatar.png" alt="avatar" width={300} height={300} className='absolute transform -translate-x-1/2 -translate-y-1/2 left-1/2 top-1/2' /> */}
+        <Image src="/avatar.png" alt="avatar" width={300} height={300} className='absolute transform -translate-x-1/2 -translate-y-1/2 left-1/2 top-1/2' />
       </div>
     </div></div>
   )
